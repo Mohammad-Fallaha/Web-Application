@@ -1,0 +1,1 @@
+his app is considered a Hybrid/Shell because it doesn’t build the user interface with native React Native components. Instead, it uses a WebView as a native container to display an existing web page like Google. Although React Native is a bridged framework, here the UI is essentially web-based
